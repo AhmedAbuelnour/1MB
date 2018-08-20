@@ -1,2 +1,2 @@
-# 1MB
-1MB File Size
+# MBs
+Used for testing on different file sizes
